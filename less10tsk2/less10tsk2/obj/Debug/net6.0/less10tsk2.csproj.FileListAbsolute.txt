@@ -1,0 +1,15 @@
+D:\projects\lesson10task1\less10tsk2\less10tsk2\bin\Debug\net6.0\less10tsk2.exe
+D:\projects\lesson10task1\less10tsk2\less10tsk2\bin\Debug\net6.0\less10tsk2.deps.json
+D:\projects\lesson10task1\less10tsk2\less10tsk2\bin\Debug\net6.0\less10tsk2.runtimeconfig.json
+D:\projects\lesson10task1\less10tsk2\less10tsk2\bin\Debug\net6.0\less10tsk2.dll
+D:\projects\lesson10task1\less10tsk2\less10tsk2\bin\Debug\net6.0\ref\less10tsk2.dll
+D:\projects\lesson10task1\less10tsk2\less10tsk2\bin\Debug\net6.0\less10tsk2.pdb
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.csproj.AssemblyReference.cache
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.AssemblyInfoInputs.cache
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.AssemblyInfo.cs
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.csproj.CoreCompileInputs.cache
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.dll
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\ref\less10tsk2.dll
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.pdb
+D:\projects\lesson10task1\less10tsk2\less10tsk2\obj\Debug\net6.0\less10tsk2.genruntimeconfig.cache
